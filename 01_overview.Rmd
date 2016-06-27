@@ -1,6 +1,7 @@
 # Why Git? Why GitHub? {#big-picture}
 
 ## Why Git?
+## Because I added a line!
 
 [Git](http://git-scm.com) is a __version control system__. Its original purpose was to help groups of developers work collaboratively on big software projects. Git manages the evolution of a set of files -- called a __repository__ -- in a sane, highly structured way. If you have no idea what I'm talking about, think of it as the "Track Changes" features from Microsoft Word on steroids.
 
