@@ -1,0 +1,46 @@
+new_session: yes
+
+rmd_files: [
+  "index.Rmd",
+
+  "01_overview.Rmd",
+  "02_contributors.Rmd",
+  "03_workshops.Rmd",
+
+  "04_install-pep-talk.Rmd",
+  "05_install-github-acct.Rmd",
+  "06_install-r-rstudio.Rmd",
+  "07_install-git.Rmd",
+  "08_install-introduce-self-git.Rmd",
+  "09_install-git-client.Rmd",
+
+  "10_connect-git-github.Rmd",
+  "11_connect-credential-caching.Rmd",
+  "12_connect-ssh-keys.Rmd",
+  "13_connect-rstudio-git-github.Rmd",
+  "14_connect-can-rstudio-use-git.Rmd",
+  "15_install-connect-troubleshooting.Rmd",
+
+  "20_usage-new-project-github-first.Rmd",
+  "21_usage-existing-project-github-first.Rmd",
+  "22_usage-existing-project-github-last.Rmd",
+
+  "30_usage-first-use-rmd-and-github.Rmd",
+  "31_usage-first-use-r-script-and-github.Rmd",
+  "38_usage-git-commands.Rmd",
+
+  "40_prompt-clone.Rmd",
+  "41_prompt-fork.Rmd",
+  "42_prompt-fork-pr-bingo.Rmd",
+  "43_prompt-burn-it-all-down.Rmd",
+  "44_prompt-practice-resets.Rmd",
+  "45_prompt-search-github.Rmd",
+
+  "50_more-content.Rmd",
+
+  "80_shell.Rmd",
+
+  "88_comic-relief.Rmd",
+
+  "90_references.Rmd",
+]
